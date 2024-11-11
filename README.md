@@ -2,11 +2,11 @@
 
 ## 👤 About me
 
-🇺🇸**English**\
+🇺🇸 **English**\
 
 I am a developer with three years of programming experience. I actively learn new technologies, participate in designing and developing solutions, and strive to improve my skills through hands-on projects and training courses.\
 
-🇷🇺**Russian**\
+🇷🇺 **Russian**\
 
 Я разработчик с тремя годами опыта в сфере программирования. Я активно изучаю новые технологии, участвую в проектировании и разработке решений, и стремлюсь улучшить свои навыки через практические проекты и учебные курсы.
 
