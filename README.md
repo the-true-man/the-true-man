@@ -31,6 +31,6 @@ I am a developer with three years of programming experience. I actively learn ne
 [![Tools](https://skillicons.dev/icons?i=obsidian,notion,qt)](https://skillicons.dev)
 
 ## My contacts
-[![](https://img.shields.io/badge/telegram-f1f1f1?style=for-the-badge&logo=telegram&logoColor=3776AB)](https://t.me/ppppridurok)
+[![](https://img.shields.io/badge/telegram-f1f1f1?style=for-the-badge&logo=telegram&logoColor=3776AB)](https://t.me/pppridurok)
 [![](https://img.shields.io/badge/gmail-f1f1f1?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:e.mikhaylov2006@gmail.com)
 
