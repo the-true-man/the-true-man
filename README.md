@@ -24,7 +24,7 @@ I am a developer with three years of programming experience. I actively learn ne
 
 ### 📒 Development Environments
 
-[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,xcode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm)](https://skillicons.dev)
 
 ### ⚙️ Others
 
