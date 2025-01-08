@@ -14,7 +14,7 @@ I am a developer with three years of programming experience. I actively learn ne
 
 ### 💻 Programming Languages:
 
-[![PL](https://skillicons.dev/icons?i=cs,swift)](https://skillicons.dev)
+[![PL](https://skillicons.dev/icons?i=cs,swift,python)](https://skillicons.dev)
 
   
 
@@ -24,7 +24,7 @@ I am a developer with three years of programming experience. I actively learn ne
 
 ### 📒 Development Environments
 
-[![Tools](https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,pycharm)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,xcode)](https://skillicons.dev)
 
 ### ⚙️ Others
 
